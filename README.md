@@ -8,7 +8,7 @@ Includes:
 - Manual stablished threshold based noise/level
 - User evaluation of indivial synaptic currents detected to be considered as real synaptic event 
 - Final average IPSCs and EPSCs
-- Determination of amplitudes of average synaptic currents (ideal to compared between experimental gropus)
+- Determination of amplitudes of average synaptic currents (ideal to compared between experimental groups)
 - Frequency of IPSCs and EPSCs
 
   
